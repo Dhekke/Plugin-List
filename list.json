@@ -1,0 +1,47 @@
+{
+    "Installers":
+            ["Gobbler", "iZotope", "Plugin Alliance", "Waves", "iLock", "Native Instruments", "Reaper SWS"],
+    "Plugins": {
+        "3Sigma":
+            ["Impulsive"],  
+        "Eventide":
+            ["Stereo Room", "EQuivocate"],
+        "Flux":
+            ["SampleGrabber v3"],
+        "Focusrite":
+            ["Scarlett Compressor", "Scarlett Equaliser", "Scarlett Gate", "Scarlett Reverb"],
+        "IK Multimedia":
+            ["AmpliTube 4"],
+        "Image-Line":
+            ["FL Studio VSTi"],
+        "iZotope":
+            ["DDLY Dynamic Delay", "RX 6 Connect", "RX 6 De-click", "RX 6 De-clip", "RX 6 De-crackle", "RX 6 De-ess", "RX 6 De-hum", "RX 6 De-plosive", "RX 6 De-reverb", "RX 6 Monitor", "RX 6 Mouth De-click", "RX 6 Spectral De-noise", "RX 6 Voice De-noise"],
+        "Line 6":
+            ["Helix Native"],
+        "Mercuriall":
+            ["TSC 1.1"],
+        "Plugin Alliance":
+            ["bx_greenscreamer", "bx_megadual", "bx_meter", "bx_rockrack V3"],
+        "PositiveGrid":
+            ["BIAS AMP", "BIAS FX"],
+        "Softube":
+            ["Drawmer S73", "Saturation Knob", "TSAR-1R Reverb", "Tube Delay"],
+        "SoundToys":
+            ["Sie-Q"],
+        "Toontrack":
+            ["EZdrummer", "EZkeys"],
+        "TSE Audio":
+            ["TSE 808 v2.0", "TSE R47"],
+        "Two Notes Audio":
+            ["Torpedo Wall Of Sound"],
+        "Universal Audio":
+            ["UAD Vertigo VSM-3"],
+        "Voxengo":
+            ["SPAN"],
+        "Waves":
+            ["API-560 Stereo", "H-Comp Stereo", "H-Delay Stereo", "Kramer HLS Stereo", "H-Reverb Stereo", "H-Reverb long Stereo", "SuperTap 2-Taps Stereo", "SuperTap 6-Taps Stereo"],
+        "XLN Audio":
+            ["Addictive Keys"],
+        "Radix": ["SurferEQ2 Boogie"]
+    }
+}
