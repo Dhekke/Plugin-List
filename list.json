@@ -27,7 +27,7 @@
         "Softube":
             ["Drawmer S73", "Saturation Knob", "TSAR-1R Reverb", "Tube Delay"],
         "SoundToys":
-            ["Sie-Q"],
+            ["Sie-Q", "Tremolator"],
         "Toontrack":
             ["EZdrummer", "EZkeys"],
         "TSE Audio":
@@ -42,6 +42,9 @@
             ["API-560 Stereo", "H-Comp Stereo", "H-Delay Stereo", "Kramer HLS Stereo", "H-Reverb Stereo", "H-Reverb long Stereo", "SuperTap 2-Taps Stereo", "SuperTap 6-Taps Stereo"],
         "XLN Audio":
             ["Addictive Keys"],
-        "Radix": ["SurferEQ2 Boogie"]
+        "Radix":
+            ["SurferEQ2 Boogie"],
+        "Kuassa":
+            ["Efektor Silencer"]
     }
 }
